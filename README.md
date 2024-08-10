@@ -22,4 +22,4 @@ Ensure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/JamshedAli18/scikit-learn-algorithms-practice.git
-   cd scikit-learn-algorithms-practice
+   cd scikit-learn-algorithms-practice 
