@@ -3,7 +3,7 @@
 This repository is for practicing various scikit-learn algorithms. It includes Jupyter notebooks and Python scripts to explore different machine learning models.
 
 ## Structure 
-
+ 
 - `data/`: Datasets used for practice.
 - `notebooks/`: Jupyter notebooks with examples and experiments. 
 - `scripts/`: Python scripts for different algorithms and utilities. 
