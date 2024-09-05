@@ -1,4 +1,4 @@
-# Scikit-Learn Algorithms Practice
+# Scikit-Learn Algorithms Practice 
 
 This repository is for practicing various scikit-learn algorithms. It includes Jupyter notebooks and Python scripts to explore different machine learning models.
 
